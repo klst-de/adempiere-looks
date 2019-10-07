@@ -6,7 +6,9 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/gossip/lib/jgoodies-looks-2.5.3.jar"/>
 	<classpathentry kind="lib" path="/gossip/lib/jgoodies-common-1.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/darcula.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="/gossip/lib/jgoodies-binding-2.13.0.jar"/>
+	<classpathentry kind="lib" path="/gossip/lib/swingx-all-1.6.5-1.jar"/>
 	<classpathentry kind="output" path="build"/>
 </classpath>
